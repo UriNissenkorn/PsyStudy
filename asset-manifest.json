@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PsyStudy/static/css/main.d76dc820.css",
+    "main.js": "/PsyStudy/static/js/main.1e930c3b.js",
+    "static/js/787.f5e487da.chunk.js": "/PsyStudy/static/js/787.f5e487da.chunk.js",
+    "index.html": "/PsyStudy/index.html",
+    "main.d76dc820.css.map": "/PsyStudy/static/css/main.d76dc820.css.map",
+    "main.1e930c3b.js.map": "/PsyStudy/static/js/main.1e930c3b.js.map",
+    "787.f5e487da.chunk.js.map": "/PsyStudy/static/js/787.f5e487da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d76dc820.css",
+    "static/js/main.1e930c3b.js"
+  ]
+}
